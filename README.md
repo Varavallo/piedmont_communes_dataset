@@ -1,10 +1,8 @@
 # piedmont_communes_dataset
 This dataset provides a comprehensive overview of 372 communes in the Piedmont region of Italy. It includes demographic, economic, and geographic data compiled to aid in the analysis of socio-economic conditions, liveability, and service accessibility in marginalized or internal areas. The dataset is intended for researchers, policymakers, and community leaders interested in rural development, regional planning, and the foundational economy.
 
-# Data Fields
-The dataset contains the following columns:
-
 ## Data Fields
+The dataset contains the following columns:
 
 | Column Name                | Description                                                       |
 |----------------------------|-------------------------------------------------------------------|
